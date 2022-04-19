@@ -1,0 +1,4 @@
+Connect RED terminal of the LED to Arduino pin 3
+Connect Blue terminal of the LED to Arduino pin 6
+Connect Green terminal of the LED to Arduino pin 5
+Connect a 220 ohm resistor accross the cathod terminal of the LED and the ground.
